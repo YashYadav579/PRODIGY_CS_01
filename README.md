@@ -34,7 +34,9 @@ If the shift is `3`, then `A` becomes `D`, `B` becomes `E`, and so on.
 
 ## 📂 File Structure
 PRODIGY_CS_01/
+
 ├── caesar_cipher_gui.py # Main Python GUI application
+
 └── README.md # Detailed description of the project
 
 ---
@@ -68,7 +70,7 @@ python caesar_cipher_gui.py
 
 ## 🙋‍♂️ About Me
 
-**Name**: _Your Name Here_  
+**Name**: _Yash Yadav_  
 **Intern** @ **Prodigy Infotech** – Cyber Security Track  
 **Task**: Caesar Cipher Encryption-Decryption GUI  
 **Task ID**: PRODIGY_CS_01  
@@ -77,8 +79,8 @@ python caesar_cipher_gui.py
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 💻 [GitHub](https://github.com/yourusername)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/yashyadav-5790abc/))
+- 💻 [GitHub](https://github.com/YashYadav579)
 
 ---
 
