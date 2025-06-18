@@ -79,7 +79,7 @@ python caesar_cipher_gui.py
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/yashyadav-5790abc/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/yashyadav-5790abc/)
 - 💻 [GitHub](https://github.com/YashYadav579)
 
 ---
