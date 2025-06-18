@@ -48,7 +48,7 @@ PRODIGY_CS_01/
 ### 👉 Steps:
 
 1. **Download** or **clone** this repository:
-git clone https://github.com/yourusername/PRODIGY_CS_01.git
+git clone https://github.com/YashYadav579/PRODIGY_CS_01.git
 
 2. **Navigate to the folder:**
 
@@ -93,9 +93,7 @@ This project helped me strengthen my understanding of:
 
 I'm grateful to **Prodigy Infotech** for this learning opportunity.
 
----
 
-### 📢 Don’t forget to check out the [LinkedIn post](#) and drop your thoughts!
 
 
 
