@@ -28,7 +28,6 @@ If the shift is `3`, then `A` becomes `D`, `B` becomes `E`, and so on.
 ## 🖥️ GUI Preview
 
 ![image](https://github.com/user-attachments/assets/c90f9059-93eb-403c-be74-29b963814736)
-![image](https://github.com/user-attachments/assets/c90f9059-93eb-403c-be74-29b963814736)
 
 
 ---
