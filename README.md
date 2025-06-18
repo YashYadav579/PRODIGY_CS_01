@@ -1,14 +1,35 @@
-# PRODIGY_CS_01 - Caesar Cipher with GUI 🔐
+# 🔐 PRODIGY_CS_01 - Caesar Cipher (GUI Version)
 
-This is Task 01 of the Prodigy Infotech Cyber Security Internship.  
-A Python program to encrypt and decrypt text using the Caesar Cipher algorithm with a user-friendly GUI.
+### ✅ Internship Task - Prodigy Infotech (Cyber Security Track)
 
-## Features
-- Encrypt & decrypt messages
-- GUI interface using Tkinter
-- Shift value input with validation
-- Copy result to clipboard
+This repository contains **Task 01** of the **Prodigy Infotech Cyber Security Internship**, where I implemented a **Caesar Cipher** encryption and decryption tool using **Python** and **Tkinter**. This tool provides an intuitive graphical user interface for secure message encoding and decoding based on user-defined shift values.
 
-## How to Run
-1. Make sure Python is installed.
-2. Save and run `caesar_cipher_gui.py`:
+---
+
+## 💡 What is Caesar Cipher?
+
+The **Caesar Cipher** is one of the oldest known encryption techniques. It’s a **substitution cipher** where each letter in the plaintext is shifted a fixed number of positions forward or backward in the alphabet.  
+Example:  
+If the shift is `3`, then `A` becomes `D`, `B` becomes `E`, and so on.
+
+---
+
+## 🎯 Features of This Project
+
+- 🔤 **Encrypt & Decrypt** text using Caesar Cipher
+- 📥 **User-friendly GUI** built with `Tkinter`
+- 🔢 Accepts custom **shift values**
+- 🧠 Smart validation for inputs
+- 📋 Copy the result to the **clipboard**
+- 🚫 Handles non-alphabet characters without affecting them
+
+---
+
+## 🖥️ GUI Preview
+
+> _Insert a screenshot here if you have one_
+
+---
+
+## 📂 File Structure
+
