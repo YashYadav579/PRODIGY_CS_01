@@ -33,4 +33,67 @@ If the shift is `3`, then `A` becomes `D`, `B` becomes `E`, and so on.
 ---
 
 ## 📂 File Structure
+PRODIGY_CS_01/
+├── caesar_cipher_gui.py # Main Python GUI application
+└── README.md # Detailed description of the project
+
+---
+
+## 🛠️ How to Run
+
+> ⚠️ Python must be installed on your system (version 3.x)
+
+### 👉 Steps:
+
+1. **Download** or **clone** this repository:
+git clone https://github.com/yourusername/PRODIGY_CS_01.git
+
+2. **Navigate to the folder:**
+
+3. **Run the application:**
+python caesar_cipher_gui.py
+
+> 💡 The GUI will open where you can input your message, shift value, and choose to encrypt or decrypt.
+
+---
+
+## ✏️ Example
+
+- **Input Text**: `Hello, World!`  
+- **Shift**: `3`  
+- **Encrypted**: `Khoor, Zruog!`  
+- **Decrypted**: `Hello, World!`
+
+---
+
+## 🙋‍♂️ About Me
+
+**Name**: _Your Name Here_  
+**Intern** @ **Prodigy Infotech** – Cyber Security Track  
+**Task**: Caesar Cipher Encryption-Decryption GUI  
+**Task ID**: PRODIGY_CS_01  
+
+---
+
+## 🔗 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💻 [GitHub](https://github.com/yourusername)
+
+---
+
+## 🏁 Conclusion
+
+This project helped me strengthen my understanding of:
+- Classic cryptography techniques (Caesar Cipher)
+- Python GUI development using Tkinter
+- Input validation and user experience design
+
+I'm grateful to **Prodigy Infotech** for this learning opportunity.
+
+---
+
+### 📢 Don’t forget to check out the [LinkedIn post](#) and drop your thoughts!
+
+
 
