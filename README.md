@@ -48,13 +48,15 @@ PRODIGY_CS_01/
 ### 👉 Steps:
 
 1. **Download** or **clone** this repository:
+```bash
 git clone https://github.com/YashYadav579/PRODIGY_CS_01.git
-
+```
 2. **Navigate to the folder:**
 
 3. **Run the application:**
+```bash
 python caesar_cipher_gui.py
-
+```
 > 💡 The GUI will open where you can input your message, shift value, and choose to encrypt or decrypt.
 
 ---
