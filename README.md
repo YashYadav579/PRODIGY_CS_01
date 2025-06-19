@@ -33,11 +33,12 @@ If the shift is `3`, then `A` becomes `D`, `B` becomes `E`, and so on.
 ---
 
 ## 📂 File Structure
-PRODIGY_CS_01/
 
-├── caesar_cipher_gui.py # Main Python GUI application
-
-└── README.md # Detailed description of the project
+```bash
+PRODIGY_CS_01/     
+├── caesar_cipher_gui.py # Main Python GUI application   
+└── README.md # Detailed description of the project   
+```
 
 ---
 
