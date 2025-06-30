@@ -50,7 +50,7 @@ CAESER_CIPHER_PYTHON/
 
 1. **Download** or **clone** this repository:
 ```bash
-git clone https://github.com/YashYadav579/PRODIGY_CS_01.git
+git clone https://github.com/YashYadav579/CAESER_CIPHER_PYTHON.git
 ```
 2. **Navigate to the folder:**
 
