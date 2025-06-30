@@ -35,7 +35,7 @@ If the shift is `3`, then `A` becomes `D`, `B` becomes `E`, and so on.
 ## 📂 File Structure
 
 ```bash
-Caeser_Cipher_Python/     
+CAESER_CIPHER_PYTHON/     
 ├── caesar_cipher_gui.py # Main Python GUI application   
 └── README.md # Detailed description of the project   
 ```
